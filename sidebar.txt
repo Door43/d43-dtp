@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dtp:home|Door43 (dtp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dtp|d43-dtp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dtp/archive/master.zip|d43-dtp.zip]]
+
+**Recent Changes**
+{{changes>ns = dtp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dtp|Ethnologue data]]
+
